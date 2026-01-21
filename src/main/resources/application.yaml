@@ -6,15 +6,10 @@ spring:
     url: jdbc:postgresql://localhost:5432/user_management
     username: postgres
     password: 1234
-<<<<<<< HEAD
-
-  jpa:
-=======
     driver-class-name: org.postgresql.Driver
 
   jpa:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
->>>>>>> ac9deff (depure code)
     hibernate:
       ddl-auto: update
     show-sql: true
@@ -23,8 +18,4 @@ spring:
         format_sql: true
 
 server:
-<<<<<<< HEAD
-  port: 8080
-=======
   port: 8081
->>>>>>> ac9deff (depure code)

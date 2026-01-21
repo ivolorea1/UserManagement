@@ -7,10 +7,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-<<<<<<< HEAD
 
-=======
->>>>>>> ac9deff (depure code)
 public class CreateUserRequest {
 
     @NotBlank
@@ -21,8 +18,5 @@ public class CreateUserRequest {
 
     @NotBlank
     private String password;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> ac9deff (depure code)
+

@@ -77,15 +77,12 @@
 			<artifactId>spring-boot-starter-webmvc-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-<<<<<<< HEAD
-=======
 		<dependency>
 			<groupId>org.jetbrains</groupId>
 			<artifactId>annotations</artifactId>
 			<version>RELEASE</version>
 			<scope>compile</scope>
 		</dependency>
->>>>>>> ac9deff (depure code)
 	</dependencies>
 
 	<build>
